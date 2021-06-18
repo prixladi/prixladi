@@ -36,10 +36,10 @@
 </a>
 <br />
 <br />
-<a href="https://github.com/prixladi/site-capture-next">
+<a href="https://github.com/prixladi/urlik-next">
   <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=prixladi&repo=urlik-next&theme=radical&cache_seconds=43200&border_radius=0" />
 </a> &nbsp;
-<a href="https://github.com/prixladi/site-capture-server">
+<a href="https://github.com/prixladi/urlik-server">
   <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=prixladi&repo=urlik-server&theme=radical&cache_seconds=43200&border_radius=0" />
 </a>
 <br />
