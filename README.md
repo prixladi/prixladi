@@ -12,8 +12,8 @@
 
 ## Pinned repos
 
-<a href="https://github.com/prixladi/shamyr-cloud">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=prixladi&repo=shamyr-cloud&theme=radical&cache_seconds=43200&border_radius=0" />
+<a href="https://github.com/prixladi/contentium">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=prixladi&repo=contentium&theme=radical&cache_seconds=43200&border_radius=0" />
 </a> &nbsp;
 <a href="https://github.com/prixladi/imaginess">
   <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=prixladi&repo=imaginess&theme=radical&cache_seconds=43200&border_radius=0" />
@@ -47,3 +47,6 @@
 <a href="https://github.com/prixladi/ladislavprix"> 
   <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=prixladi&repo=ladislavprix&theme=radical&cache_seconds=43200&border_radius=0" />
 </a>
+<a href="https://github.com/prixladi/shamyr-cloud">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=prixladi&repo=shamyr-cloud&theme=radical&cache_seconds=43200&border_radius=0" />
+</a> &nbsp;
